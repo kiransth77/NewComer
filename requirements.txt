@@ -2,3 +2,6 @@ flask
 flask_sqlalchemy
 pandas
 scikit-learn
+transformers
+torch
+datasets
