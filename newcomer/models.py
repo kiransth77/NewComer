@@ -1,4 +1,4 @@
-from myapp import db
+from newcomer import db
 
 class Feedback(db.Model):
     id = db.Column(db.Integer, primary_key=True)

@@ -1,4 +1,3 @@
-from newcomer import app
-
+from ui import MyApp
 if __name__ == '__main__':
-    app.run(debug=True)
+    MyApp().run()

@@ -1,0 +1,14 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "python": {
+    "autopep8Path": "autopep8",
+    "autopep8Args": ["--max-line-length", "100"]
+  },
+  "sortImports": true,
+  "save": true
+}
